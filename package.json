@@ -18,7 +18,8 @@
     "transport"
   ],
   "dependencies": {
-    "underscore": "1.8.3"
+    "underscore": "1.8.3",
+    "le_node": "0.2.1"
   },
   "license": "MIT"
 }
